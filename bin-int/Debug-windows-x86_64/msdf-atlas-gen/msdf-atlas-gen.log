@@ -1,0 +1,51 @@
+﻿  Charset.cpp
+  FontGeometry.cpp
+  GlyphGeometry.cpp
+  GridAtlasPacker.cpp
+  Padding.cpp
+  RectanglePacker.cpp
+  TightAtlasPacker.cpp
+  Workload.cpp
+D:\dev\C++\Oregano\Oregano\vendor\msdf-atlas-gen\msdf-atlas-gen\TightAtlasPacker.cpp(60,109): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+D:\dev\C++\Oregano\Oregano\vendor\msdf-atlas-gen\msdf-atlas-gen\TightAtlasPacker.cpp(63,103): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+D:\dev\C++\Oregano\Oregano\vendor\msdf-atlas-gen\msdf-atlas-gen\TightAtlasPacker.cpp(66,103): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+D:\dev\C++\Oregano\Oregano\vendor\msdf-atlas-gen\msdf-atlas-gen\TightAtlasPacker.cpp(69,103): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+D:\dev\C++\Oregano\Oregano\vendor\msdf-atlas-gen\msdf-atlas-gen\TightAtlasPacker.cpp(73,102): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+D:\dev\C++\Oregano\Oregano\vendor\msdf-atlas-gen\msdf-atlas-gen\TightAtlasPacker.cpp(80,75): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+D:\dev\C++\Oregano\Oregano\vendor\msdf-atlas-gen\msdf-atlas-gen\RectanglePacker.cpp(70,33): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+D:\dev\C++\Oregano\Oregano\vendor\msdf-atlas-gen\msdf-atlas-gen\RectanglePacker.cpp(71,32): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+D:\dev\C++\Oregano\Oregano\vendor\msdf-atlas-gen\msdf-atlas-gen\RectanglePacker.cpp(77,37): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+D:\dev\C++\Oregano\Oregano\vendor\msdf-atlas-gen\msdf-atlas-gen\RectanglePacker.cpp(78,36): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+D:\dev\C++\Oregano\Oregano\vendor\msdf-atlas-gen\msdf-atlas-gen\RectanglePacker.cpp(110,33): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+D:\dev\C++\Oregano\Oregano\vendor\msdf-atlas-gen\msdf-atlas-gen\RectanglePacker.cpp(111,32): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+D:\dev\C++\Oregano\Oregano\vendor\msdf-atlas-gen\msdf-atlas-gen\RectanglePacker.cpp(116,33): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+D:\dev\C++\Oregano\Oregano\vendor\msdf-atlas-gen\msdf-atlas-gen\RectanglePacker.cpp(117,32): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+D:\dev\C++\Oregano\Oregano\vendor\msdf-atlas-gen\msdf-atlas-gen\RectanglePacker.cpp(124,37): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+D:\dev\C++\Oregano\Oregano\vendor\msdf-atlas-gen\msdf-atlas-gen\RectanglePacker.cpp(125,36): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+D:\dev\C++\Oregano\Oregano\vendor\msdf-atlas-gen\msdf-atlas-gen\RectanglePacker.cpp(133,37): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+D:\dev\C++\Oregano\Oregano\vendor\msdf-atlas-gen\msdf-atlas-gen\RectanglePacker.cpp(134,36): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  artery-font-export.cpp
+  bitmap-blit.cpp
+  charset-parser.cpp
+D:\dev\C++\Oregano\Oregano\vendor\msdf-atlas-gen\msdf-atlas-gen\GridAtlasPacker.cpp(514,37): warning C4244: "return": Konvertierung von "__int64" in "int", möglicher Datenverlust
+  csv-export.cpp
+  glyph-generators.cpp
+  image-encode.cpp
+  json-export.cpp
+  main.cpp
+  shadron-preview-generator.cpp
+  size-selectors.cpp
+  utf8.cpp
+D:\dev\C++\Oregano\Oregano\vendor\msdf-atlas-gen\artery-font-format\artery-font\stdio-serialization.hpp(9,17): warning C4267: "return": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  (Quelldatei „msdf-atlas-gen/artery-font-export.cpp“ wird kompiliert)
+  
+D:\dev\C++\Oregano\Oregano\vendor\msdf-atlas-gen\artery-font-format\artery-font\stdio-serialization.hpp(13,18): warning C4267: "return": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  (Quelldatei „msdf-atlas-gen/artery-font-export.cpp“ wird kompiliert)
+  
+D:\dev\C++\Oregano\Oregano\vendor\msdf-atlas-gen\msdf-atlas-gen\artery-font-export.cpp(85,99): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+      D:\dev\C++\Oregano\Oregano\vendor\msdf-atlas-gen\msdf-atlas-gen\artery-font-export.cpp(85,99):
+      der Vorlageninstanziierungskontext (der älteste zuerst) ist
+          D:\dev\C++\Oregano\Oregano\vendor\msdf-atlas-gen\msdf-atlas-gen\artery-font-export.cpp(189,15):
+          Siehe Verweis auf die gerade kompilierte Instanziierung "bool msdf_atlas::exportArteryFont<float,msdfgen::byte,1>(const msdf_atlas::FontGeometry *,int,const msdfgen::BitmapConstRef<msdfgen::byte,1> &,const char *,const msdf_atlas::ArteryFontExportProperties &)" der Funktions-Vorlage.
+  
+  msdf-atlas-gen.vcxproj -> D:\dev\C++\Oregano\Oregano\vendor\msdf-atlas-gen\bin\Debug-windows-x86_64\msdf-atlas-gen\msdf-atlas-gen.lib
